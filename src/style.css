@@ -25,7 +25,7 @@ body {
   align-items: center;
   border-radius: 20px;
   padding: 16px;
-  margin-top: 24px;
+  margin-top: 144px;
   margin-bottom: 24px;
 }
 
@@ -38,6 +38,7 @@ body {
 .title {
   font-weight: 700;
   color: var(--dark-blue);
+  font-size: 22px;
   text-align: center;
   margin: 0;
   margin-bottom: 16px;
